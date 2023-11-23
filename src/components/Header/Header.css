@@ -1,0 +1,25 @@
+img.mt-5 {
+  width: auto;
+  margin-top: 12rem !important;
+  transition: max-width 1s,min-width 1s;
+}
+.fs-1.flex-column {
+  margin-left: 4rem;
+  font-family: 'Hachi Maru Pop', 'cursive';
+  transition: font-size 1s;
+}
+.head-img-expand{
+    min-width: 300px;
+    max-width: 320px;
+}
+
+.head-img-contracted{
+    min-width: 60px;
+    max-width: 100px;
+}
+.head-text-expand{
+font-size: 36px;
+}
+.head-text-contracted{
+    font-size:5px;
+    }

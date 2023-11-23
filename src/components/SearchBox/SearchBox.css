@@ -1,0 +1,6 @@
+
+input.form-control.pt-2.ps-3.fs-5.border-0 {
+    background: #a592f2;color: #e7e9f0;
+}
+
+input.form-control.pt-2.ps-3.fs-5.border-0::placeholder{color: #e7e9f0;}
